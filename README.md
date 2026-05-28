@@ -7,7 +7,9 @@
 
 > A premium, futuristic landing page for an automotive technology brand featuring 3D animations, interactive components, and a seamless user experience.
 
-![Hero Section Preview](https://via.placeholder.com/1200x600/050816/00E5FF?text=Vaahan+Landing+Page)
+![Hero Section Preview]
+<img width="1366" height="658" alt="Screenshot (1645)" src="https://github.com/user-attachments/assets/0555b77c-90aa-443f-ad5c-921c771ae8c1" />
+
 
 ## ✨ Features
 
